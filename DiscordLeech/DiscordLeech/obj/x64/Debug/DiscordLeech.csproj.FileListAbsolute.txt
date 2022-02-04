@@ -1,0 +1,9 @@
+C:\Users\vm\Documents\Projects\DiscordLeech\DiscordLeech\DiscordLeech\bin\x64\Debug\DiscordLeech.exe.config
+C:\Users\vm\Documents\Projects\DiscordLeech\DiscordLeech\DiscordLeech\bin\x64\Debug\DiscordLeech.exe
+C:\Users\vm\Documents\Projects\DiscordLeech\DiscordLeech\DiscordLeech\bin\x64\Debug\DiscordLeech.pdb
+C:\Users\vm\Documents\Projects\DiscordLeech\DiscordLeech\DiscordLeech\obj\x64\Debug\DiscordLeech.MainForm.resources
+C:\Users\vm\Documents\Projects\DiscordLeech\DiscordLeech\DiscordLeech\obj\x64\Debug\DiscordLeech.Properties.Resources.resources
+C:\Users\vm\Documents\Projects\DiscordLeech\DiscordLeech\DiscordLeech\obj\x64\Debug\DiscordLeech.csproj.GenerateResource.cache
+C:\Users\vm\Documents\Projects\DiscordLeech\DiscordLeech\DiscordLeech\obj\x64\Debug\DiscordLeech.csproj.CoreCompileInputs.cache
+C:\Users\vm\Documents\Projects\DiscordLeech\DiscordLeech\DiscordLeech\obj\x64\Debug\DiscordLeech.exe
+C:\Users\vm\Documents\Projects\DiscordLeech\DiscordLeech\DiscordLeech\obj\x64\Debug\DiscordLeech.pdb
